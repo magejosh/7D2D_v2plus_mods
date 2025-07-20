@@ -97,7 +97,7 @@ and move the code directly into your 7D2D game folder.
 
 1. Open the GitHub page for this project:
    
-    [https://github.com/magejosh/7D2D_v1_mods)
+    [https://github.com/magejosh/7D2D_v2plus_mods)
 
     You can download all the mods at once, or separately,
     by going to each mod's subdirectory.
