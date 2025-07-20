@@ -66,6 +66,9 @@ It is safe to install only on the server, but your book's icons will be missing.
 
 ## Changelog
 
+**2.1.0.0**
+- Updated Progression to fix a bug spotted by ShadowWolf579 and brought to me by Fin(FNS) on Discord where maxing out the book series would lead to negative experience gain. The progression has been adjusted to fix this. Originally this was due to an inherent function in vanilla where rampant xp gain would occur without such an adjustment. I cannot test this, but I trust Fin(FNS)'s testing and feedback.
+
 **1.0.0.3**
 - Fixed a couple wrong name keys in buffs that called them sprained arms and used the critical icon.
 - Fixed wrong tags on the perk points where the sledgehammer bonus harvest was applying to all tools instead of just the sledgehammer.
