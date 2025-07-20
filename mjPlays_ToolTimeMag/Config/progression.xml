@@ -43,7 +43,7 @@
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.1"/>
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.05" tags="secondary"/>
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".05" tags="allHarvest"/>
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>
 		<effect_group>
 			<requirement name="HoldingItemHasTags" tags="perkSkullCrusher"/>
@@ -55,7 +55,7 @@
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="salvageHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="cropHarvest,wildCropsHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="bonusCropHarvest"/>			
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>	
 	</book>
 	<book name="perkToolTimeDamageIncrease" parent="skillToolTime" max_level="1" base_skill_point_cost="0" name_key="perkToolTimeDamageIncrease" desc_key="perkToolTimeDamageIncreaseDesc" long_desc_key="perkToolTimeDamageIncreaseLongDesc">
@@ -78,7 +78,7 @@
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.1"/>
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.05" tags="secondary"/>
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".05" tags="allHarvest"/>
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>
 		<effect_group>
 			<requirement name="HoldingItemHasTags" tags="perkSkullCrusher"/>
@@ -90,7 +90,7 @@
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="salvageHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="cropHarvest,wildCropsHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="bonusCropHarvest"/>			
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>	
 
 	</book>
@@ -115,7 +115,7 @@
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.1"/>
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.05" tags="secondary"/>
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".05" tags="allHarvest"/>
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>
 		<effect_group>
 			<requirement name="HoldingItemHasTags" tags="perkSkullCrusher"/>
@@ -127,7 +127,7 @@
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="salvageHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="cropHarvest,wildCropsHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="bonusCropHarvest"/>			
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>	
 
 	</book>
@@ -153,7 +153,7 @@
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.1"/>
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.05" tags="secondary"/>
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".05" tags="allHarvest"/>
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>
 		<effect_group>
 			<requirement name="HoldingItemHasTags" tags="perkSkullCrusher"/>
@@ -165,7 +165,7 @@
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="salvageHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="cropHarvest,wildCropsHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="bonusCropHarvest"/>			
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>	
 
 	</book>
@@ -187,7 +187,7 @@
 				<passive_effect name="StaminaLoss" operation="perc_add" value="-.1"/>
 				<passive_effect name="StaminaLoss" operation="perc_add" level="1" value="-.05" tags="secondary"/>
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".05" tags="allHarvest"/>
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>
 		<effect_group>
 			<requirement name="HoldingItemHasTags" tags="perkSkullCrusher"/>
@@ -199,7 +199,7 @@
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="salvageHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="cropHarvest,wildCropsHarvest"/>			
 				<passive_effect name="HarvestCount" operation="perc_add" level="1" value=".15" tags="bonusCropHarvest"/>			
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value="-.15" tags="Harvesting"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Harvesting"/>
 		</effect_group>	
 
 		<effect_group>
@@ -278,7 +278,7 @@
 			<requirement name="!EntityTagCompare" target="other" tags="player"/>
 			<requirement name="HoldingItemHasTags" tags="perkToolTime"/>
 			<requirement name="ProgressionLevel" progression_name="perkToolTimeT3PoweredSledge" operation="Equals" value="1"/>
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".05" tags="Kill"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Kill"/>
 		</effect_group>
 	</book>
 	
@@ -371,7 +371,7 @@
 			<requirement name="!EntityTagCompare" target="other" tags="player"/>
 			<requirement name="HoldingItemHasTags" tags="perkToolTime"/>
 			<requirement name="ProgressionLevel" progression_name="perkToolTimeShocker" operation="Equals" value="1"/>
-				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".05" tags="Kill"/>
+				<passive_effect name="PlayerExpGain" operation="perc_add" level="1" value=".015" tags="Kill"/>
 		</effect_group>
 	</book>
 	
